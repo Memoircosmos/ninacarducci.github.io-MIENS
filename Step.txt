@@ -1,0 +1,41 @@
+	-Fait :
+
+ajout d'une balise title
+
+remplacement de la div avec id header par une balise header
+ajout de alt aux images
+ajout de loading="lazy" pour charger images quand nécessaire
+suppression de certain symboles inutiles
+ajout d'un label correspondant à l'id dans la balise form
+convertissage des images en WEBP et modification des noms pour plus de clarté
+Chargement différé des images.
+Déplacement des scripts à la fin de la page pour qu'ils ne bloquent pas le rendu initial.
+Optimisation des balises title, meta et des liens internes.
+    Meilleure structure des titres.
+
+
+Performance :
+
+    
+    Minification du CSS et JS.***
+    
+    Ajout de la mise en cache des ressources.********
+
+Accessibilité :
+
+    Ajout des attributs ARIA.*********
+    Amélioration des descriptions des images et des champs de formulaire.**************
+
+Meilleures pratiques :
+
+    Utilisation d'HTTPS.*********
+    Protection des ressources externes avec integrity.**************
+
+SEO :
+
+    
+
+
+
+	-A faire : 
+corriger code w3c html et CSS
